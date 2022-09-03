@@ -1,0 +1,4 @@
+1. Desenhe um DER para o BD Biblioteca, o qual pode ser mapeado para obter o esquema lógico do BD Biblioteca.
+Trata-se de Engenharia reversa?
+
+Sim, trata-se de engenharia reversa, pois estamos realizando o processo inverso ao construir o Diagrama Entidade Relacionamento a partir do esquema lógico.
